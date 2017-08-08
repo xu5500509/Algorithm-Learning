@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>Algorithm-Learning</h1>
+        <h1>Algorithm</h1>
         <h2>LeetCode/LintCode笔记</h2>
       </div>
       <div id="particles-js"></div>
