@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      LintCode公开比赛-Career Fair Warm Up I
+title:      Flatten List
 category: blog
 description: 题目：平面列表，骰子求和，将数组重新排序以构造最小值，克隆二叉树
 ---
 
-## 1. 平面列表
+## LeetCode-22 平面列表
 
 给定一个列表，该列表中的每个要素要么是个列表，要么是整数。将其变成一个只包含整数的简单列表。
 
